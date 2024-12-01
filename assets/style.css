@@ -1,3 +1,14 @@
 p {
     color: green;
+    
+}
+.big-yellow {
+    color: violet;
+    font-size: 20px;
+}
+.background {
+    background-color: rgb(221, 191, 70);
+}
+#parag1 {
+    color: red;
 }
