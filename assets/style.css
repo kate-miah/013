@@ -1,14 +1,27 @@
+body {
+    background-color: darkgrey;
+}
+
+
 p {
-    color: green;
+    color: rgb(0, 128, 0);
+    /*opacity: 0.8;*/
     
 }
 .big-yellow {
-    color: violet;
+    color: rgb(3, 3, 3);
     font-size: 20px;
 }
 .background {
-    background-color: rgb(221, 191, 70);
+    background-color: rgb(221, 191, 70, 0.1);
 }
 #parag1 {
     color: red;
+}
+
+section {
+    width: 300px;
+}
+.container {
+    width: 50%;
 }
